@@ -17,7 +17,7 @@
 NAME = 'ZenPacks.Veritas.Netbackup'
 VERSION = '1.0'
 AUTHOR = 'Michael C. Hoffman'
-LICENSE = ''
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.Veritas']
 PACKAGES = ['ZenPacks', 'ZenPacks.Veritas', 'ZenPacks.Veritas.Netbackup']
 INSTALL_REQUIRES = []
